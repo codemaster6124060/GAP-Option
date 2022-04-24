@@ -1,1 +1,1 @@
-# Portfolio-replication
+Gap options can be priced using the BSM option price formulas, but modifying the strike price. Gap Options are similar to the basic call and put options with a strike price of K2 and K1, respectively, but with the payoff increased by a factor of |K2 - K1|. If K2 > K1, then option prices are positive. If K2 < K1, then option prices are negative. 
